@@ -20,6 +20,6 @@ Running the above cmds will save the converted model 'yolo.h5' in the 'model_dat
 
 References:
 
-   1. YOLO's official website - https://pjreddie.com/darknet/yolo/
-   2.'YOLO9000: Better,Faster,Stronger' - Joseph Redmon, Ali Farhadi
+   1. YOLO's official website - https://pjreddie.com/darknet/yolo/   ...............................
+   2. 'YOLO9000: Better,Faster,Stronger' - Joseph Redmon, Ali Farhadi
    3.'YAD2K: Yet Another Darknet 2 Keras' - Allan Zelener (https://github.com/allanzelener/YAD2K)
